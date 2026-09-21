@@ -1,0 +1,5 @@
+data/
+*.npz
+*.wav
+checkpoints/
+__pycache__/
