@@ -3,3 +3,5 @@ data/
 *.wav
 checkpoints/
 __pycache__/
+.DS_Store
+.ipynb_checkpoints/
